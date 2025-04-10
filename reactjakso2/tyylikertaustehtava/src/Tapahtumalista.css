@@ -1,0 +1,9 @@
+.tapahtuma-lista {
+  flex-direction: column;
+  gap: 1em;
+  color: rgb(
+    0,
+    0,
+    0
+  ); /*Tämä on Roope Muistutukseksi väri jolla määritetään "Ei Tapahtumia teksti" Lomakkeen alapuolella!!!*/
+}

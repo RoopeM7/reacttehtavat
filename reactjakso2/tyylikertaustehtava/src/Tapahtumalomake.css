@@ -1,0 +1,10 @@
+.Tapahtuma_Lomake {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 2rem;
+  max-width: 400px;
+  margin: 0 auto; /*Tämä pitää Tapahtuma lomakkeen keskellä. ilman tätä se menee vasemmalle Roope!! MUISTA */
+  padding: 1rem;
+  border-radius: 8px;
+  background-color: #496f60;
+}

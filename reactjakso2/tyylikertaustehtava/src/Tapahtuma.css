@@ -1,0 +1,31 @@
+.tapahtuma {
+  color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+.tapahtuma.kategoria-1 {
+  background-color: #0099ff;
+  color: white;
+}
+
+.tapahtuma.kategoria-2 {
+  background-color: #ffbb00;
+  color: #333;
+}
+
+.tapahtuma.kategoria-3 {
+  background-color: #00ff08;
+  color: white;
+}
+.poista-nappi {
+  background-color: #a40606;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-size: 1rem;
+}
+
+.poista-nappi:hover {
+  background-color: rgb(255, 0, 0);
+}
